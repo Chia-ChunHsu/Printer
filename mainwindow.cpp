@@ -48,9 +48,14 @@ void MainWindow::on_actionLoad_triggered()
     cv::Mat temp;
     QString name = QFileDialog::getOpenFileName(this, tr("Open File"),
                                                 "/home",
-                                                tr("Images (*.png)"));
+                                                tr("Images (*.jpg)"));
     temp = cv::imread(name.toStdString().c_str(),cv::IMREAD_COLOR);
     if(temp.empty())
         return;
     image = temp.clone();
+}
+
+void MainWindow::on_pushButton_clicked()
+{
+    Print(image);
 }
