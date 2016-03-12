@@ -148,6 +148,7 @@ Makefile: printer.pro C:\Qt\5.5\msvc2013_64\mkspecs\win32-msvc2013\qmake.conf C:
 		C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_webkitwidgets_private.pri \
 		C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_websockets.pri \
 		C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_websockets_private.pri \
+		C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_webview_private.pri \
 		C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_widgets.pri \
 		C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_widgets_private.pri \
 		C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_winextras.pri \
@@ -263,6 +264,7 @@ C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_webkitwidgets.pri:
 C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_webkitwidgets_private.pri:
 C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_websockets.pri:
 C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_websockets_private.pri:
+C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_webview_private.pri:
 C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_widgets.pri:
 C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_widgets_private.pri:
 C:\Qt\5.5\msvc2013_64\mkspecs\modules\qt_lib_winextras.pri:
